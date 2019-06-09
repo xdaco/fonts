@@ -11,6 +11,12 @@ Run ``./install.sh`` to install all Powerline Fonts or see the documentation_ fo
 
 .. _documentation: https://powerline.readthedocs.org/en/latest/installation/linux.html#fonts-installation
 
+Installation on Windows
+-----------------------
+
+Open Powershell and run ``powershell -ExecutionPolicy ByPass -File install.ps1`` to install all Powerline Fonts
+
+
 Quick installation
 ------------------
 
